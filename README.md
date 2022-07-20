@@ -6,8 +6,13 @@
 **[Site do meu portfolio](https://edey.github.io/Portfolio/)**
 
 ### 🎓 Formação
-🎓 Bacharelado em Design 
 
+  ✒️ Bacharelado em Design - UFPE </br>
+  🎮 Tecnico em Programação de Jogos Digitais - ETE Cicero Dias
+
+**📚 Cursos**
+
+🎨 Ilustração no Photoshop - UNHIDE School
 
 ### 💖 Apaixonado por desenvolvimento de jogos e areas relacionadas 
 
@@ -20,24 +25,12 @@
 - Layout e Prototipação pelo Adobe XD
 
 ### 🔨 Habilidades
-- **🎨 Pintura digital**
-  - Renderização e splash art 
-  - Concept Art e Character Design 
-  - Prop art 
-  - Desenvovimento de cenario 
+**🎨 Pintura digital e Renderização** </br>
+✏️ Character design e Concept art </br>
+**🎮 Desenvolvimento de jogos** </br>
+⌨️ C# </br>
+🎮 Unity3D
 
-- **🎮 Desenvolvimento de jogos**
-  - Renderização e splash art 
-  - Concept Art e Character Design 
-  - Prop art 
-  - Desenvovimento de cenario 
-
-
-- 👋 Hi, I’m @EDey
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 EDey/EDey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
